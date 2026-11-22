@@ -1,4 +1,4 @@
-TOS: 104.16.132.229 -- (IPV4)
+TOS: 104.16.132.229 -- (IPV4) -- 01101000  . 00010000  . 10000100  . 11100101
 ================================
          GEOLOCATION
 ================================
@@ -32,7 +32,10 @@ Mail: noc@cloudflare.com; noc@cloudflare.com; rir@cloudflare.com; abuse@cloudfla
 Organization: Cloudflare, Inc. (CLOUD14)
 ASN: AS13335
 ISP: Cloudflare, Inc. 
-JARM fingerprint: 27d40d40d00040d1dc42d43d00041d6183ff1bfae51ebd88d70384363d525c 
+JARM fingerprint: 27d40d40d00040d1dc42d43d00041d6183ff1bfae51ebd88d70384363d525c
+Address Range: 104.16.0.0 - 104.31.255.255
+Network Name: CLOUDFLARENET
+Parent Network: NET-104-0-0-0-0
 ================================
      Last HTTPS Certificate
 ================================ 
@@ -85,5 +88,4 @@ Signature Algorithm: 1.2.840.10045.4.3.2
 62:2b:b0:55:ca:ed:23:02:20:67:e6:f5:32:19:75:
 82:46:43:19:4a:b7:4d:95:46:5f:51:aa:7e:a2:f7:
 b6:3e:b9:ab:c2:9f:b3:a0:4e:ea:d4
-
 
